@@ -1,0 +1,44 @@
+.product img{
+    width: 286px;
+    height: 280px;
+    border-radius: 8px 8px 0 0;
+    margin: 5px;
+
+}
+.info h6{
+    margin: 0;
+}
+.info p{
+    margin-top: 5px;
+    margin-bottom: 47px;
+}
+.product{
+    border: 1px solid orange;
+    border-radius: 8px;
+    width: 300px;
+    height: 510px;
+    position: relative;
+}
+.title{
+    margin-left: 15px;
+    margin-bottom: 13px;
+}
+.title > p{
+    margin-top: 11px;
+    margin-bottom: 0;
+}
+.footer{
+    text-align: center;
+    height: 48px;
+    background-color: #FFE0B3;
+    border-radius: 0 0 8px 8px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+
+}
+.footer button{
+    background-color: #FFE0B3;
+    border: none;
+    
+}
