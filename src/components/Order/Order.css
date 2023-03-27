@@ -1,0 +1,10 @@
+.cart{
+    background-color: #FFE0B3;
+    color: #1C2B35;
+    padding-left: 25px;
+    position: sticky;
+    top: 0;
+}
+.cart h2{
+margin-bottom: 50px;
+}
